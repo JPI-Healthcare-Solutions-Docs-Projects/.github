@@ -1,3 +1,9 @@
 # JPI Healthcare Solutions Public and Internal documentation
 
-Here will be a list of all private and public repositories related to JPI Healthcare Solutions.
+This organization contains all repositories related to JPI Healthcare Solutions.
+
+Repositories Include
+- Scripts
+- Documentation/How-To-Guides
+- Applications
+- Repair Documentation
